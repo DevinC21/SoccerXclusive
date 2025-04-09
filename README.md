@@ -1,2 +1,0 @@
-# SoccerXclusive
-Football Kits website
